@@ -1,0 +1,27 @@
+.leftCol{
+  float: left;
+  width: 65%;
+  padding: 10px;
+  height: 300px;
+}
+
+.Rightcolumn {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px;
+}
+
+.divTop {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.Matfield {
+  width: 100%;
+}
+
+table {
+  width: 800px;
+}
